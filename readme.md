@@ -6,6 +6,7 @@ Install python
 
 Install pip
 
+#Commands
 pip install virtualenv
 
 python -m venv venv (venv — Creation of virtual environments)
