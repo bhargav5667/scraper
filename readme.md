@@ -27,5 +27,3 @@ scrapy genspider spider https://services.nvd.nist.gov
 scrapy crawl spider             
 
 scrapy crawl spider -o data.csv 
-
-"# scraper" 
